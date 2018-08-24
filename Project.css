@@ -1,0 +1,61 @@
+.body{
+    font-family: sans-serif;
+    background-color: palevioletred;
+    margin: 0px;
+    padding: inherit;
+}
+
+.section{
+   background-color: antiquewhite;
+    margin: 0px 0px 0px 0px;
+    background-attachment: scroll;
+    opacity: inherit;
+}
+
+.jumbotron{
+    background-image: url(backgroundgif2.gif);
+    position: inherit;
+    text-align: center;
+    text-align-last: center;
+    height: 600px;
+    margin: 0px 0px 0px 0px;
+    background-attachment: fixed;
+}
+
+.author{
+    text-align: center;
+}
+
+.panel{
+    background-image: url(peachbackground.jpg); 
+    height: 500px;
+    margin: 0px 20px 0px 20px;
+}
+
+.header{
+    background-image: url(quote.jpg);
+    position: relative;
+    text-align: center;
+    text-align-last: center;
+    height: 600px;
+    margin: 0px 20px 0px 20px;
+    background-attachment: fixed;
+}
+
+.section1{
+    background-image: url(backgroundgif4.gif);
+    height: 610px;
+    background-attachment: fixed;
+}
+
+.footer{
+    background-attachment: inherit;
+    background-color: aquamarine;
+}
+.section2{
+    background-color: darkgrey;
+    height: 600px;
+    margin: 0px 0px 0px 0px;
+    
+}
+
